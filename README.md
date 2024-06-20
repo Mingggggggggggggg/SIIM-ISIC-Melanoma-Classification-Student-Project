@@ -3,7 +3,7 @@ https://www.kaggle.com/competitions/siim-isic-melanoma-classification
 
 This is a student project I did for university.
 This model has an accuracy of about 60% in Kaggle.
-This model uses the JPEG Dataset, as I couldnt figure out how to work with tfrecords or dicom, and a CNN.
+This model uses the JPEG Dataset and a Convolutional Neural Network, as I couldnt figure out how to work with tfrecords, dicom or these effnet and resnet thingies.
 
 If you have to do something similar feel free to use my code, no need to credit me but please message me if you are using it (anonomously preferably)
 
