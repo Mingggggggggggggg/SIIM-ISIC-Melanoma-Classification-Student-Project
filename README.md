@@ -10,4 +10,4 @@ If you have to do something similar feel free to use my code, no need to credit 
 My professor literally threw me into cold water with this one, so please excuse me not following best practices.
 
 The comments are in german so use deepl or just mail me if you have questions.
-I wouldn't mind if I you could send me your results as I'd would like to improve or learn from it.
+I wouldn't mind if I you could send me your results as I'd like to improve or learn from it.
