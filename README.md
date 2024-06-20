@@ -11,3 +11,24 @@ My professor literally threw me into cold water with this one, so please excuse 
 
 The comments are in german so use deepl or just mail me if you have questions.
 I wouldn't mind if I you could send me your results as I'd like to improve or learn from it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schmerz
