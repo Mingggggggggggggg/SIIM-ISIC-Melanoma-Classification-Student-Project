@@ -16,4 +16,4 @@ I wouldn't mind if I you could send me your results as I'd like to improve or le
 Schmerz
 
 
-PS: You also need to use python 3.9.19 if you want to use you gpu. Took me a while to find the optimal version to work with in anaconda
+PS: You also need to use python 3.9.19 if you want to use your gpu. Took me a while to find the optimal version to work with in anaconda
